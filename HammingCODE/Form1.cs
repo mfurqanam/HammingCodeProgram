@@ -12,6 +12,9 @@ namespace WindowsFormsApplication4
 {
     public partial class Form1 : Form
     {
+
+//         This Software is developed by Muhammad Furqan
+
         static int paritybits = 0;
         public Form1()
         {
